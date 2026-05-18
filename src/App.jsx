@@ -42,7 +42,7 @@ function App() {
             <Route
               path="/wishlist"
               element={
-                <div className="p-10 text-center">Wishlist Page (Lesson 7)</div>
+                <div className="p-10 text-center">Wishlist Page loading</div>
               }
             />
 
